@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "node-mv",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "formidable": "^1.2.2"
+  },
+  "scripts": {
+    "start": "node ./src/index.js"
+  }
+}
